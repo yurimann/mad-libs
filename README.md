@@ -7,7 +7,7 @@
 * Owner adds teammates as collaborators with write access
 * Everyone in the group clones the repo
 
-## 
+## Exercise
 * Everyone makes a feature branch
 * Follow the usual edit-stage-commit process
 * When finished,
